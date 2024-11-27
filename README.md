@@ -1,5 +1,13 @@
 # Final Project: Global Football Data Analysis 🌍⚽
 
+## 👥 Team Members
+| MSSV         | Name             | Gmail                | GitHub Link                    |
+|--------------|------------------|----------------------|--------------------------------|
+| 123456789    | John Doe         | john.doe@gmail.com    | [GitHub Profile](https://github.com/johndoe) |
+| 987654321    | Jane Smith       | jane.smith@gmail.com  | [GitHub Profile](https://github.com/janesmith) |
+| 112233445    | Tiến Anh         | tien.anh@example.com | [GitHub Profile](https://github.com/tienanh) |
+
+
 ## 📜 Description
 This project is the **Final Project for Programming for Data Science** course, focusing on analyzing a global football dataset from Kaggle. The dataset contains over 47,000 international football results from 1872 to 2024, covering FIFA World Cup, friendly matches, and other tournaments. The goal is to clean, explore, and analyze the data to uncover insights about football trends, team performance, and individual players.
 
@@ -12,10 +20,7 @@ The primary objectives of this project are:
 1. Perform exploratory data analysis (EDA) on the dataset.  
 2. Clean and preprocess the data to ensure consistency and accuracy.  
 3. Visualize key trends in global football.  
-4. Answer meaningful questions such as:  
-   - What factors influence a team's success?  
-   - Which players perform the best under specific conditions?  
-   - How has football evolved over the years based on the data?
+4. Answer meaningful questions.
 
 ## 🛠️ Tools and Technologies
 - **Programming Language**: Python  
@@ -25,11 +30,3 @@ The primary objectives of this project are:
   - `matplotlib` and `seaborn` for data visualization  
   - `scikit-learn` for potential machine learning insights  
 - **Environment**: Jupyter Notebook
-
-## 👥 Team Members
-| MSSV         | Name             | Gmail                | GitHub Link                    |
-|--------------|------------------|----------------------|--------------------------------|
-| 123456789    | John Doe         | john.doe@gmail.com    | [GitHub Profile](https://github.com/johndoe) |
-| 987654321    | Jane Smith       | jane.smith@gmail.com  | [GitHub Profile](https://github.com/janesmith) |
-| 112233445    | Tiến Anh         | tien.anh@example.com | [GitHub Profile](https://github.com/tienanh) |
-
