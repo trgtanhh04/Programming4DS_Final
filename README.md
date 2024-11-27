@@ -12,7 +12,7 @@
 This project is the **Final Project for Programming for Data Science** course, focusing on analyzing a global football dataset from Kaggle. The dataset contains over 47,000 international football results from 1872 to 2024, covering FIFA World Cup, friendly matches, and other tournaments. The goal is to clean, explore, and analyze the data to uncover insights about football trends, team performance, and individual players.
 
 ## 📂 Dataset
-- **Source**: [Kaggle - International Football Results]([[https://www.kaggle.com](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv))
+- **Source**: [Kaggle - International Football Results](https://www.kaggle.com](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv))
 - **Content**: The dataset includes 47,917 results of international football matches, ranging from official FIFA World Cup matches to friendly games, starting from 1872 until 2024.
   
 ## 🎯 Objectives
