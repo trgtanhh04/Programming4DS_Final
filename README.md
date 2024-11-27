@@ -33,10 +33,3 @@ The primary objectives of this project are:
 | 987654321    | Jane Smith       | jane.smith@gmail.com  | [GitHub Profile](https://github.com/janesmith) |
 | 112233445    | Tiến Anh         | tien.anh@example.com | [GitHub Profile](https://github.com/tienanh) |
 
-## 📊 Key Insights
-Insights from the analysis will be documented here as the project progresses.
-
-## 🚀 How to Run
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
