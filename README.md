@@ -1,11 +1,11 @@
 # Final Project: Global Football Data Analysis 🌍⚽
 
 ## 👥 Team Members
-| MSSV         | Name             | Gmail                | GitHub Link                    |
-|--------------|------------------|----------------------|--------------------------------|
-| 123456789    | John Doe         | john.doe@gmail.com    | [GitHub Profile](https://github.com/johndoe) |
-| 987654321    | Jane Smith       | jane.smith@gmail.com  | [GitHub Profile](https://github.com/janesmith) |
-| 112233445    | Tiến Anh         | tien.anh@example.com | [GitHub Profile](https://github.com/tienanh) |
+| MSSV         | Name             | Gmail                |
+|--------------|------------------|----------------------|
+| 22120017    | Trương Tiến Anh         | truongtienanh16@gmail.com    | 
+| 22120023    | Lê Nguyễn Gia Bảo       | jane.smith@gmail.com  | 
+| 22120043    | Đoàn Minh Cường         | tien.anh@example.com |
 
 
 ## 📜 Description
