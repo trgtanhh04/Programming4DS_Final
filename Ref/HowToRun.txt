@@ -1,0 +1,4 @@
+Hướng dẫn cách chạy file notebook với môi trường "min_ds-env".
+B1: Vào cmd kích hoạt môi trường min_ds-env bằng câu lệnh: conda activate min_ds-env
+B2: Khởi chạy notebook bằng câu lệnh: jupyter notebook
+B3: Sau khi đã khởi chạy notebook, lựa chọn Run all để thực thi tất cả các cell trong bài làm.
