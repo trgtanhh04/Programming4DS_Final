@@ -3,9 +3,9 @@
 ## 👥 Team Members
 | MSSV         | Name             | Gmail                |
 |--------------|------------------|----------------------|
-| 22120017    | Trương Tiến Anh         | truongtienanh16@gmail.com    | 
-| 22120023    | Lê Nguyễn Gia Bảo       | jane.smith@gmail.com  | 
-| 22120043    | Đoàn Minh Cường         | tien.anh@example.com |
+| 22120017    | Trương Tiến Anh         | 22120017@student.hcmus.edu.vn    | 
+| 22120023    | Lê Nguyễn Gia Bảo       | 22120023@student.hcmus.edu.vn  | 
+| 22120043    | Đoàn Minh Cường         | 22120043@student.hcmus.edu.vn |
 
 
 ## 📜 Description
