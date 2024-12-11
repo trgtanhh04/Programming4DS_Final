@@ -11,6 +11,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
+
     "This is the final project for the course **\"Programming for Data Science\"** at the **Faculty of Information Technology**, **University of Science, Vietnam National University, Ho Chi Minh City**."
    ]
   },
@@ -7078,11 +7079,7 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": 71,
-=======
    "execution_count": 97,
->>>>>>> origin/main
    "metadata": {},
    "outputs": [
     {
@@ -7288,12 +7285,9 @@
    ]
   },
   {
-<<<<<<< HEAD
-   "cell_type": "markdown",
-=======
+
    "cell_type": "code",
    "execution_count": 98,
->>>>>>> origin/main
    "metadata": {},
    "source": [
     "##### Câu hỏi 7.1: Top 20 đội có số bàn thắng trung bình mỗi trận cao nhất"
