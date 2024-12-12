@@ -7,14 +7,13 @@
 | 22120023    | Lê Nguyễn Gia Bảo       | 22120023@student.hcmus.edu.vn  | 
 | 22120043    | Đoàn Minh Cường         | 22120043@student.hcmus.edu.vn |
 
-
 ## 📜 Description
 This project is the **Final Project for Programming for Data Science** course, focusing on analyzing a global football dataset from Kaggle. The dataset contains over 47,000 international football results from 1872 to 2024, covering FIFA World Cup, friendly matches, and other tournaments. The goal is to clean, explore, and analyze the data to uncover insights about football trends, team performance, and individual players.
 
 ## 📂 Dataset
-- **Source**: [Kaggle - International Football Results](https://www.kaggle.com](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv)](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv))
+- **Source**: [Kaggle - International Football Results](https://www.kaggle.com/datasets/martj42/international-football-results-from-1872-to-2017?select=shootouts.csv)
 - **Content**: The dataset includes 47,917 results of international football matches, ranging from official FIFA World Cup matches to friendly games, starting from 1872 until 2024.
-  
+
 ## 🎯 Objectives
 The primary objectives of this project are:  
 1. Perform exploratory data analysis (EDA) on the dataset.  
@@ -30,3 +29,6 @@ The primary objectives of this project are:
   - `matplotlib` and `seaborn` for data visualization  
   - `scikit-learn` for potential machine learning insights  
 - **Environment**: Jupyter Notebook
+
+## 💻 Work Space
+- **Trello Board**: [Project P4DS on Trello](https://trello.com/b/7rwU6m64/project-p4ds)
