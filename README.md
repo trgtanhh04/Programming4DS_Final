@@ -26,9 +26,9 @@ The primary objectives of this project are:
 - **Libraries**:  
   - `pandas` for data manipulation  
   - `numpy` for numerical operations  
-  - `matplotlib` and `seaborn` for data visualization  
-  - `scikit-learn` for potential machine learning insights  
+  - `matplotlib` and `seaborn` for data visualization   
 - **Environment**: Jupyter Notebook
+- **Kernel**: min_ds-env
 
 ## 💻 Work Space
 - **Trello Board**: [Project P4DS on Trello](https://trello.com/b/7rwU6m64/project-p4ds)
